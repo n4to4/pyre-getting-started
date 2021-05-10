@@ -1,1 +1,1 @@
-i: int = 'string'
+i: int = 0
